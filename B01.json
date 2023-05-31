@@ -12,6 +12,27 @@
 		"PROMOTE_APP_DESC": "Download Sekarang Juga",
 		"PROMOTE_PACKAGE_NAME": "com.justwatch.justwatch"
 	},
+	"5Tips": [{
+			"CONTENT_THUMB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqr2CoFxTnsqIavkC5zL1naddXIttlfRBMlkNnvEJSVMAIY2zbykKqOhShy4NCXlzYv8&usqp=CAU",
+			"CONTENT_TITLE": "Alternative 1",
+			"CONTENT_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+		},
+		{
+			"CONTENT_THUMB": "https://i.redd.it/8fcn5m3dxzy51.jpg",
+			"CONTENT_TITLE": "Alternative 2",
+			"CONTENT_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+		},
+		{
+			"CONTENT_THUMB": "https://enoumen.com/wp-content/uploads/2022/06/tv_shows-1280x720.jpg",
+			"CONTENT_TITLE": "Alternative 3",
+			"CONTENT_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+		},
+		{
+			"CONTENT_THUMB": "https://i1.wp.com/edunik.com/home/wp-content/uploads/2018/12/31-2018-Movies.jpg?fit=1848%2C1068",
+			"CONTENT_TITLE": "Alternative 4",
+			"CONTENT_URL": "https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+		}
+	],
 	"Inspirations": [{
 			"CONTENT_THUMB": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqr2CoFxTnsqIavkC5zL1naddXIttlfRBMlkNnvEJSVMAIY2zbykKqOhShy4NCXlzYv8&usqp=CAU",
 			"CONTENT_TITLE": "Alternative 1",
