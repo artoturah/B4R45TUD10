@@ -1,8 +1,9 @@
 {
 	"Ads": {
 		"INTERVAL": 2,
-		"SHOW_BANNER_ONLIST": false,
-		"KEY":"FhvcsBFlmVwY31MZ4MeVgg=="
+		"SHOW_BANNER_ONLIST": true,
+		"KEY":"FhvcsBFlmVwY31MZ4MeVgg==",
+		"PRIVACY_POLICY":"https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
 	},
 	"Promote": {
 		"SHOW_PROMOTE_DIALOG": false,
