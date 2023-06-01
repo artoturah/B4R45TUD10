@@ -1,12 +1,12 @@
 {
 	"Ads": {
-		"INTERVAL": 2,
-		"SHOW_BANNER_ONLIST": true,
+		"INTERVAL": 10,
+		"SHOW_BANNER_ONLIST": false,
 		"KEY":"FhvcsBFlmVwY31MZ4MeVgg==",
-		"PRIVACY_POLICY":"https://telegra.ph/Sergio-P%C3%A9rez-Wins-as-Red-Bull-Dominates-Again-05-01"
+		"PRIVACY_POLICY":"https://telegra.ph/Privacy-Policy-06-01-66"
 	},
 	"Promote": {
-		"SHOW_PROMOTE_DIALOG": true,
+		"SHOW_PROMOTE_DIALOG": false,
 		"PROMOTE_GIF": "https://media.giphy.com/media/3o7527pa7qs9kCG78A/giphy.gif",
 		"PROMOTE_APP_ICON": "https://play-lh.googleusercontent.com/AKSOJkOH2IqMT-zvqcknCyaETyMKXi3e4kIGGdE3Wl4jNAI82j9IiShfyTdslmbLzg=w240-h480-rw",
 		"PROMOTE_APP_TITLE": "App Movie Viral",
