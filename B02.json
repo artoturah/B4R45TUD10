@@ -1,8 +1,8 @@
 
 {
 	"Ads": {
-		"INTERVAL": 5,
-		"SHOW_BANNER_ONLIST": false,
+		"INTERVAL": 2,
+		"SHOW_BANNER_ONLIST": true,
 		"KEY":"FhvcsBFlmVwY31MZ4MeVgg==",
 		"PRIVACY_POLICY":"https://telegra.ph/Privacy-Policy-06-01-66"
 	},
